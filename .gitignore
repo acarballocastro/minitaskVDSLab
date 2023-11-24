@@ -1,6 +1,7 @@
 # Folders
 data/
 results/
+data.zip
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
