@@ -1,0 +1,12 @@
+captum
+lfxai
+matplotlib
+numpy
+pandas
+scikit-learn
+seaborn
+shap
+torch
+torchvision
+tqdm
+ucimlrepo
